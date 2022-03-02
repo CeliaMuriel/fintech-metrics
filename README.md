@@ -5,4 +5,4 @@ Most of the slides are in Spanish, except the FinTech metrics definitions that a
 
 Thanks to my friend Gopi for his help and review to write this presentation.
 
-https://celiamuriel.blogspot.com/2021/11/fintech-metrics.html
+https://celiamuriel.com/fintech-metrics/
